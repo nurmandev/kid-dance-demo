@@ -1,7 +1,7 @@
 <template>
     <section class="reason">
       <h2>EYS-Kidsを選ぶ理由</h2>
-      <img src="/static/foot3.png" alt="EYS-Kids Growth" class="reason-img" />
+      <img src="/static/Foot3.png" alt="EYS-Kids Growth" class="reason-img" />
     </section>
   </template>
   

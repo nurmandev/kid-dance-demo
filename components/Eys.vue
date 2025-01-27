@@ -1,7 +1,7 @@
 <template>
    <section class="hero">
 <div class="bg-gradient-to-r from-blue-400 to-blue-500 p-10 flex justify-center items-center">
-    <img src="/static/Panel.jpg" alt="EYS-Kids" class="h-66 rounded-lg" />
+    <img src="/static/Panel.png" alt="EYS-Kids" class="h-66 rounded-lg" />
   </div>
   </section>
   <style scoped>
