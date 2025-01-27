@@ -54,9 +54,9 @@
 </template>
 <script>
 import FooterBanner from '/components/FooterBanner.vue';
-import News from '/pages/News.vue';
+import News from '../pages/news.vue';
 import Curriculum from '../pages/curriculum.vue';
-import Vision from '/pages/vision.vue';
+import Vision from '../pages/vision.vue';
 
 export default {
   name: "Exploration",
