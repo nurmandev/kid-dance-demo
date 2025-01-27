@@ -1,7 +1,7 @@
 <template>
   <section class="w-screen h-screen flex flex-col items-center justify-center text-center bg-white">
     <!-- Full-Width Image -->
-    <img src="/static/karte-info.jpg" alt="Karte Info" class="w-full h-screen object-cover" />
+    <img src="/static/Karte-info.jpg" alt="Karte Info" class="w-full h-screen object-cover" />
 
     <!-- Text Below -->
     <div class="w-full max-w-4xl px-6 py-12">
