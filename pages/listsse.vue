@@ -6,9 +6,9 @@
     </div>
 </template>
 <script>
-import Instructors from '/pages/Instructors.vue';
-import Freetrial from '/pages/Freetrial.vue';
-import News from '/pages/News.vue';
+import Instructors from '../insinstructors.vue';
+import Freetrial from '../freefreetrial.vue';
+import News from '../newsnews.vue';
 
 export default {
   name: "List",
