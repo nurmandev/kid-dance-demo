@@ -5,7 +5,7 @@
         最初のステップを踏み出すために、あなたをサポートします。</p>
       <img src="../static/haxagon.png" alt="Hexagon Image" />
     <p>丁寧な学習対象・レベル別のクラス分けでお子様の様々な成長をお手伝いします。</p>
-    <img src="../static/haxa.png" alt="Hexagon Image" />
+    <img src="/static/haxagon.png" alt="Hexagon Image" />
    <div class="bg-gradient-to-r from-blue-400 to-blue-500 p-10 flex justify-center items-center">
     <img src="/static/vid.png"class="h-66 rounded-lg" />
   </div>

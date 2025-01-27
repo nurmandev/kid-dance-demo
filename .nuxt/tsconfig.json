@@ -98,11 +98,8 @@
       "#tailwind-config": [
         "./tailwind/expose"
       ],
-      "#tailwind-config/*": [
-        "./tailwind/expose/*"
-      ],
       "#app-manifest": [
-        "./manifest/meta/dev"
+        "./manifest/meta/9105529c-9234-4249-a4e6-144a87b3ea10.json"
       ],
       "#components": [
         "./components"
