@@ -22,7 +22,7 @@
   </template>
   
   <script>
-  import VisionCard from '/components/VisionCard.vue';
+  import VisionCard from '/components/visionCard.vue';
   
   export default {
     components: { VisionCard }
