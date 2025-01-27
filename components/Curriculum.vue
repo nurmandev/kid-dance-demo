@@ -12,7 +12,7 @@
     <p></p>
        <!-- "View More" Navigation Button -->
        <router-link to="/curriculum" class="view-more-btn">VIEW MORE →</router-link>
-       <img src="/static/foot3.png" alt="EYS-Kids Growth" class="reason-img" />
+       <img src="/static/Foot3.png" alt="EYS-Kids Growth" class="reason-img" />
 </section>
   </template>
   
