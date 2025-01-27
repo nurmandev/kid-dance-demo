@@ -12,7 +12,7 @@
 
 <script>
 import HeroSection from '/components/HeroSection.vue';
-import KarteInfo from '/components/KarteInfo.vue';
+import KarteInfo from '/components/Karteinfo.vue';
 import FeaturesGrid from '/components/FeaturesGrid.vue';
 import FooterBanner from '/components/FooterBanner.vue';
 
