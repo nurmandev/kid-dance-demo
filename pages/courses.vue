@@ -1,21 +1,31 @@
 <template>
-<div class="bg-gradient-to-r from-blue-400 to-blue-500 p-10 flex justify-center items-center">
+  <div
+    class="bg-gradient-to-r from-blue-400 to-blue-500 p-10 flex justify-center items-center"
+  >
     <img src="/static/course.png" alt="EYS-Kids" class="h-66 rounded-lg" />
   </div>
-  <div class="bg-gradient-to-r from-blue-400 to-blue-500 p-10 flex justify-center items-center">
+  <div
+    class="bg-gradient-to-r from-blue-400 to-blue-500 p-10 flex justify-center items-center"
+  >
     <img src="/static/Cont.png" alt="EYS-Kids" class="h-66 rounded-lg" />
   </div>
-  <div class="bg-gradient-to-r from-blue-400 to-blue-500 p-10 flex justify-center items-center">
+  <div
+    class="bg-gradient-to-r from-blue-400 to-blue-500 p-10 flex justify-center items-center"
+  >
     <img src="/static/jah.png" alt="EYS-Kids" class="h-66 rounded-lg" />
   </div>
-  <div class="bg-gradient-to-r from-blue-400 to-blue-500 p-10 flex justify-center items-center">
+  <div
+    class="bg-gradient-to-r from-blue-400 to-blue-500 p-10 flex justify-center items-center"
+  >
     <img src="/static/sted.png" alt="EYS-Kids" class="h-66 rounded-lg" />
   </div>
   <div class="hex-box">
-    科学・技術・ものづくり・語学・芸術・数学6つの領域の中から子供の個性に合わせて個別にカリキュラムを構築。  
+    科学・技術・ものづくり・語学・芸術・数学6つの領域の中から子供の個性に合わせて個別にカリキュラムを構築。
     子供は好きなものに没頭する中で才能を開花させていきます。
   </div>
-  <div class="bg-gradient-to-r from-blue-400 to-blue-500 p-10 flex justify-center items-center">
+  <div
+    class="bg-gradient-to-r from-blue-400 to-blue-500 p-10 flex justify-center items-center"
+  >
     <img src="/static/info.png" alt="EYS-Kids" class="h-66 rounded-lg" />
   </div>
   <div class="filter-container">
@@ -32,7 +42,13 @@
 
       <label>コース</label>
       <div class="icon-group">
-        <img v-for="n in 3" :key="n" src="/violin.png" alt="Course" class="icon" />
+        <img
+          v-for="n in 3"
+          :key="n"
+          src="/static/vid.png"
+          alt="Course"
+          class="icon"
+        />
         <span class="more">... +3</span>
       </div>
 
@@ -83,20 +99,26 @@
         <button class="day">日</button>
       </div>
       <button class="search-button">
-    <span class="icon">🔍</span>
-    <span class="text">この条件でグループレッスンを検索</span>
-  </button>
+        <span class="icon">🔍</span>
+        <span class="text">この条件でグループレッスンを検索</span>
+      </button>
     </div>
-    <div class="bg-gradient-to-r from-blue-400 to-blue-500 p-10 flex justify-center items-center">
-    <img src="/static/choice.png" alt="EYS-Kids" class="h-66 rounded-lg" />
-  </div>
-  <div class="bg-gradient-to-r from-blue-400 to-blue-500 p-10 flex justify-center items-center">
-    <img src="/static/slide.png" alt="EYS-Kids" class="h-66 rounded-lg" />
-  </div>
-  <div class="bg-gradient-to-r from-blue-400 to-blue-500 p-10 flex justify-center items-center">
-    <img src="/static/choice.png" alt="EYS-Kids" class="h-66 rounded-lg" />
-  </div>
-  <button class="search-button">
+    <div
+      class="bg-gradient-to-r from-blue-400 to-blue-500 p-10 flex justify-center items-center"
+    >
+      <img src="/static/choice.png" alt="EYS-Kids" class="h-66 rounded-lg" />
+    </div>
+    <div
+      class="bg-gradient-to-r from-blue-400 to-blue-500 p-10 flex justify-center items-center"
+    >
+      <img src="/static/slide.png" alt="EYS-Kids" class="h-66 rounded-lg" />
+    </div>
+    <div
+      class="bg-gradient-to-r from-blue-400 to-blue-500 p-10 flex justify-center items-center"
+    >
+      <img src="/static/choice.png" alt="EYS-Kids" class="h-66 rounded-lg" />
+    </div>
+    <button class="search-button">
       <span class="text">コースをもっと見る</span>
       <span class="icon">▼</span>
     </button>
@@ -104,9 +126,9 @@
   <FooterBanner />
   <Freetrial />
   <News />
-  </template>
+</template>
 
-  <style scoped>
+<style scoped>
 .hex-box {
   display: inline-block;
   padding: 20px;
