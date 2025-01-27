@@ -11,10 +11,10 @@
 </template>
 
 <script>
-import Access from '../aaccess.vue';
-import Safety from '../savesafety.vue';        
-import Freetrial from '..freetfreetrial.vue';
-import News from '../newnews.vue';
+import Access from './access.vue';
+import Safety from './safety.vue';        
+import Freetrial from './freetrial.vue';
+import News from './news.vue';
 
 export default {
   name: "Listss",
