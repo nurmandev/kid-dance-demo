@@ -1,1 +1,0 @@
-import{_ as r,v as a,z as e,J as _,g as n,t as i}from"./Cp6PLJW2.js";const l={};function m(p,f){const t=n("Activity"),o=n("Ranking"),c=n("Freetrial"),s=n("News");return i(),a(_,null,[e(t),e(o),e(c),e(s)],64)}const g=r(l,[["render",m]]);export{g as default};

@@ -595,7 +595,7 @@ const _routes = [
   {
     name: "exploration",
     path: "/exploration",
-    component: () => import("./_nuxt/exploration-DQT4crZM.js")
+    component: () => import("./_nuxt/exploration-BMxxLXPA.js")
   },
   {
     name: "explore",

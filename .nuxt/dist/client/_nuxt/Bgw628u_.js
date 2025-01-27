@@ -1,1 +1,0 @@
-import{_ as o,t,v as n,x as e}from"./Cp6PLJW2.js";const r=""+new URL("foot.y3BAejfL.png",import.meta.url).href,_={},c={class:"reason"};function a(i,s){return t(),n("section",c,s[0]||(s[0]=[e("h2",null,"EYS-Kidsを選ぶ理由",-1),e("img",{src:r,alt:"EYS-Kids Growth",class:"reason-img"},null,-1)]))}const m=o(_,[["render",a],["__scopeId","data-v-51d2b17f"]]);export{m as _};

@@ -13,7 +13,7 @@
        <!-- "View More" Navigation Button -->
         <!-- Manually Add the "VIEW MORE" Button -->
         <router-link to="/pricing" class="view-more-btn">VIEW MORE →</router-link>
-       <img src="/static/foot3.png" alt="EYS-Kids Growth" class="reason-img" />
+       <img src="/static/Foot3.png" alt="EYS-Kids Growth" class="reason-img" />
        
     </section>
 
