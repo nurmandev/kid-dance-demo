@@ -1,27 +1,29 @@
 <template>
   <div>
     <HeroSection />
+    <!-- <FloatingBanner /> -->
     <ReasonSection />
     <StemSection />
     <LessonSection />
     <Foot1 />
     <AboutSection />
     <ReasonsList />
-      <!-- Manually Add the "VIEW MORE" Button -->
-      <div class="view-more">
+    <!-- Manually Add the "VIEW MORE" Button -->
+    <div class="view-more">
       <button @click="viewMore">VIEW MORE</button>
     </div>
   </div>
 </template>
 
 <script>
-import HeroSection from '/components/HeroSection.vue';
-import ReasonSection from '/components/ReasonSection.vue';
-import StemSection from '/components/StemSection.vue';
-import LessonSection from '/components/LessonSection.vue';
-import Foot from '/components/Foot1.vue';
-import AboutSection from '/components/AboutSection.vue';
-import ReasonsList from '/components/ReasonsList.vue';
+import HeroSection from "/components/HeroSection.vue";
+import ReasonSection from "/components/ReasonSection.vue";
+import StemSection from "/components/StemSection.vue";
+import LessonSection from "/components/LessonSection.vue";
+import Foot from "/components/Foot1.vue";
+import AboutSection from "/components/AboutSection.vue";
+import ReasonsList from "/components/ReasonsList.vue";
+import FloatingBanner from "/components/FloatingBanner.vue";
 
 export default {
   methods: {
@@ -38,7 +40,8 @@ export default {
     Foot,
     AboutSection,
     ReasonsList,
-  }
+    FloatingBanner,
+  },
 };
 </script>
 <style scoped>
